@@ -8,7 +8,7 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello from Coder Army! Welcome back. How are You?";
+        return "Hello from GitHub Actioon! Welcome back. How are You?";
     }
 
     @GetMapping("/bye")

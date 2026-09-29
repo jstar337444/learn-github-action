@@ -14,7 +14,7 @@ class HelloControllerTest {
         String result = controller.hello();
 
         assertEquals(
-                "Hello from Coder Army! Welcome back",
+                "Hello from GitHub Actioon! Welcome back. How are You?",
                 result
         );
     }
